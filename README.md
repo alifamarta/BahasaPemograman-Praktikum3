@@ -106,7 +106,7 @@ jari = float(input("Masukkan Jari-Jari: "))
 Lalu masukkan rumusnya untuk menghitung luas dan keliling lingkaran
 
 ```
-luas = pi*(jari * jari)
+luas = pi* r ** 2
 keliling = 2 * pi * jari
 ```
 
