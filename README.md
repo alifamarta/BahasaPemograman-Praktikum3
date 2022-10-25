@@ -117,7 +117,7 @@ print("Luas Lingkaran =","{:.1f}".format(luas))
 print("Keliling Lingkaran =","{:.1f}".format(keliling))
 ```
 
-Cetak memakai "{:.1f}".format(luas) karena penambahan "{:.1f}".format(), membatasi 1 karakter dibelakang koma.
+Cetak memakai ```"{:.1f}".format(luas)``` karena penambahan ```"{:.1f}".format()```, membatasi 1 karakter dibelakang koma.
 
 maka outputnya
 
