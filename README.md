@@ -100,14 +100,14 @@ pertama masukkan phi nya dan jari jari nya
 
 ```
 pi = 3.14
-jari = float(input("Masukkan Jari-Jari: "))
+r = float(input("Masukkan Jari-Jari: "))
 ```
 
 Lalu masukkan rumusnya untuk menghitung luas dan keliling lingkaran
 
 ```
-luas = pi* r ** 2
-keliling = 2 * pi * jari
+luas = pi * r ** 2
+keliling = 2 * pi * r
 ```
 
 Cetakkan hasil nya dengan ```string formatting``` 
