@@ -86,6 +86,8 @@ print("hasil pembagian {1}/{0}=%d".format (a,b) %(a/b))
 
 ## Latihan 3
 
+![image](https://user-images.githubusercontent.com/115516820/198224222-9f70e026-a664-4ce5-97e3-5a200b8461c1.png)
+
 ---
 
 ## Menghitung Luas dan Keliling Lingkaran
